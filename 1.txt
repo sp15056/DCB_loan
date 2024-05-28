@@ -1,4 +1,4 @@
-this is f1.txt details
+this is f1.txt details given below.
 
 s=2
 <<<<<<< HEAD
@@ -6,9 +6,6 @@ q=8
 s=2
 z=10
 f-55
-
-sss
-sss
 
 
 
