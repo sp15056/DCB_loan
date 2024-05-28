@@ -1,5 +1,8 @@
 this is f1.txt
 
 s=2
+<<<<<<< HEAD
 q=8
 s=2
+
+
